@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "slug": "vaposoft",
+  "owner": {
+    "id": 133152220,
+    "login": "corderro-artz"
+  },
+  "repo": "corderro-artz/nfty-public",
+  "release": "vaposoft-v1",
+  "name": "Vaposoft",
+  "collection": "Vaposoft",
+  "description": "Vaporsoft singularity.",
+  "tags": [
+    "abstract"
+  ],
+  "canvas": {
+    "width": 8,
+    "height": 8
+  },
+  "assets": 1000,
+  "models": true,
+  "includesCookBook": true,
+  "cookbookSha256": "fe0a99fd9d611dbf41fbb94808a51c3a05446bffdbb9a70456f1cbd93fe17aff",
+  "set": {
+    "url": "https://github.com/corderro-artz/nfty-public/releases/download/vaposoft-v1/vaposoft.set",
+    "size": 2190562,
+    "sha256": "3e2148611131bc2e29bac665d19e346468e04b89e228bef69f7f093ce117ddd3"
+  },
+  "preview": {
+    "url": "https://github.com/corderro-artz/nfty-public/releases/download/vaposoft-v1/preview.png",
+    "size": 1033,
+    "sha256": "3834758e94a1b6fc5fa29b3f1fc8d49f085f88c72affb926120161a54822d12b"
+  },
+  "fingerprint": "63e2cfcb85414d7b816b306f37bf59687b93f2f4fbb0332f28d65c5785ff5ae6",
+  "nftyVersion": "2.11.0",
+  "created": "2026-11-12T01:31:17.0009573+00:00",
+  "updated": "2026-11-12T01:31:17.0009573+00:00"
+}
